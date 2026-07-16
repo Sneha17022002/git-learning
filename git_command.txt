@@ -1,0 +1,21 @@
+ python testing.py                                                
+   3 ls                                                               
+   4 ls -l                                                            
+   5  git init                                                        
+   6 dir                                                              
+   7 python testing.py                                                
+   8 dir                                                                                                                   
+  11 git add testing.py                                               
+  12 git status                                                       
+  13 git add .                                                                                                           
+  15 git commit -m testing.py                                         
+  16 git config --global user.name "Sneha Shaji"                      
+  17 git config --global user.email "snehashaji19@siesgst.ac.in"      
+  18 git commit -m testing.py                                         
+  19 git status                                                       
+  20 rm testing.py                                                    
+  21 dir                                                              
+  22 git status                                                       
+  23 git restore testing.py                                           
+  24 git status     
+  token -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
